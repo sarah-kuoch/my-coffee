@@ -1,0 +1,12 @@
+.container{
+	width: 800px;
+	margin: 0 auto;
+}
+
+.container p{
+	margin-bottom: 30px;
+}
+
+.container h2{
+	padding-top: 30px;
+}
